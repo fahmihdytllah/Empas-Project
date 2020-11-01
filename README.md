@@ -1,7 +1,6 @@
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=fahmicog&repo=Empas-Project&theme=radical" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fahmicog&show_icons=true&include_all_commits=true&theme=radical" alt="Fahmi cog github stats" />
 
-# Empas-Project
-Alat untuk dump empas moonton
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=fahmicog&repo=Empas-Project&theme=radical" />
 
 # Usage
 $ git clone https://github.com/fahmicog/Empas-Project/<br/>
