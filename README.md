@@ -1,3 +1,5 @@
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=fahmicog&repo=Empas-Project&theme=radical" />
+
 # Empas-Project
 Alat untuk dump empas moonton
 
