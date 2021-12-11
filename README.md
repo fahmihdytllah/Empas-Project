@@ -1,13 +1,10 @@
-<div align="center">
+
 <img src="https://i.ibb.co/t4VyBZ2/Screenshot-2021-12-11-13-04-22-34-84d3000e3f4017145260f7618db1d683.jpg" alt="empas project" width="500" />
 
 # **Empas-Project**
 
 > Sebuah alat untuk mengambil daftar empas 
->
->
 
-</div>
 
 # Bahan Bahan
 * Kopi
@@ -23,10 +20,7 @@
 > bash empas.sh
 ```
 
-# License
-**Empas-Project** © [Fahmi Hdytllah](https://github.com/fahmicog), released under the MIT License.
-Authored and maintained by Fahmi Hdytllah.
+# Detail
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fahmicog&show_icons=true&include_all_commits=true&theme=radical" alt="Fahmi cog github stats" />
 
-<p align="center">
-  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Ffahmicog%2FEmpas-Project?ref=badge_large"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffahmicog%2FEmpas-Project.svg?type=large" />
-</p>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=fahmicog&repo=Empas-Project&theme=radical" />
