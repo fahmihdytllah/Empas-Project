@@ -20,6 +20,15 @@
 > bash empas.sh
 ```
 
+# Support
+* [Grup Whatsapp](https://chat.whatsapp.com/BziYhTyB1UT6Oo09S3c6Ha)
+* [Youtube](https://www.youtube.com/c/FahmiCog)
+* [Instagram](https://www.instagram.com/fahmihdytllah)
+* [Trakteer](https://trakteer.id/fahmicog)
+* [Paypal](https://trakteer.id/https://paypal.me/fahmicog)
+
+<a href="https://www.buymeacoffee.com/fahmicog" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 # Detail
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=fahmicog&show_icons=true&include_all_commits=true&theme=radical" alt="Fahmi cog github stats" />
 
